@@ -62,7 +62,7 @@ This assignment should prove that a student is able to:
 - [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x] The code MUST be formatted with Prettier
 - [x] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -85,7 +85,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add the section heading "My Hobbies"
 - [x] Add the UNORDERED list of 4 hobbies
 - [x] Add the section heading "Contact Me"
-- [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
+- [x] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
 - [x] Add Discord as a service and your discord's real username as a value to the table.
 - [x] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
 - [x] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
